@@ -1,0 +1,29 @@
+{
+  "name": "gitbook-plugin-plantuml-custom",
+  "version": "0.1.1",
+  "description": "PlantUML plugin with config for GitBook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwinmin/gitbook-plugin-plantuml-custom.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plantuml"
+  ],
+  "engines": {
+    "gitbook": ">=2.4.1 <4.0.0"
+  },
+  "author": "Winmin Tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwinmin/gitbook-plugin-plantuml-custom/issues"
+  },
+  "homepage": "https://github.com/iwinmin/gitbook-plugin-plantuml-custom#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
